@@ -1,4 +1,4 @@
-<h1>Portfolio</h1>
+<h1>Pending</h1>
 <div class="table-responsive">
 	<table class="table table-striped">
 		<thead>
@@ -7,6 +7,7 @@
 				<th>Instrument</th>
 				<th>Quantity</th>
 				<th>Price</th>
+				<th>Side</th>
 				<th></th>
 			</tr>
 		</thead>
@@ -16,6 +17,7 @@
 				<td>AAPL</td>
 				<td>3</td>
 				<td>10</td>
+				<td>BUY</td>
 				<td></td>
 			</tr>
 			<tr>
@@ -23,6 +25,7 @@
 				<td>WALM</td>
 				<td>10</td>
 				<td>16</td>
+				<td>BUY</td>
 				<td></td>
 			</tr>
 			<tr>
@@ -30,6 +33,7 @@
 				<td>GREN</td>
 				<td>12</td>
 				<td>100</td>
+				<td>BUY</td>
 				<td></td>
 			</tr>
 		</tbody>
